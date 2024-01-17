@@ -1,0 +1,7 @@
+aws:
+  region: ap-southeast-1
+  s3:
+    accessKey: AKIAQH52BDQUU7FZPY76
+    secretKey: 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
+    buckets:
+      customer: image-pinterest-clone
